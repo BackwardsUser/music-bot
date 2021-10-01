@@ -1,2 +1,16 @@
-# music-bot
- A Simple Music Bot
+# Music Bot
+A Simple Discord Music Bot
+
+## Dependecies
+*NodeJS
+*"@discordjs/voice": "^0.6.0"
+*"discord.js": "^13.1.0"
+*"ffmpeg": "^0.0.4"
+*"ffmpeg-static": "^4.4.0"
+*"sodium-native": "^3.2.1"
+*"spotify": "^0.3.0",
+*"spotify-to-youtube": "^1.0.2"
+*"spotify-url-info": "^2.2.3"
+*"tweetnacl": "^1.0.3"
+*"yt-search": "^2.10.1"
+*"ytdl": "^1.4.1"
