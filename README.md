@@ -3,6 +3,15 @@ Soon the JS branch will only be found in the branch "v1.0 (JS)" For those who wa
 
 The JS Branch won't be updated, feel free to use that code in what ever way you feel with respect to the License.
 
+The TS Bot should be released in a couple days, just working through some issues... the bot is near completion, it should be finished within the month
+
+# WARNING
+If you use this bot publically, I warn you not to profit off the bot, this led to the demise of many other music bots ex.
+- Rythm
+- Groovy
+- Fredboat
+
+And many others.
 
 # Music Bot
 A Simple Discord Music Bot
