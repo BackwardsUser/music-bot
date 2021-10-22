@@ -1,7 +1,7 @@
 # This bot is being re-coded in Typescript
 Soon the JS branch will only be found in the branch "v1.0 (JS)" For those who want the bot in JS
 
-The JS Branch won't be updated, feel free to use that code in what ever way you feel.
+The JS Branch won't be updated, feel free to use that code in what ever way you feel with respect to the License.
 
 
 # Music Bot
