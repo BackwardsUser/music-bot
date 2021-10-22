@@ -1,5 +1,5 @@
 # Music Bot
-A Simple Discord Music Bot
+A Simple Discord Music Bot coded in JS
 
 ## Dependecies
 - NodeJS
